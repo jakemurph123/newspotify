@@ -4,6 +4,7 @@ let accessToken;
 
 const Spotify = {
   getAccessToken() {
+    console.log("getAccessToken running");
     if (accessToken) {
       return accessToken;
     }
