@@ -109,7 +109,7 @@ const Spotify = {
 
 export default Spotify;
 
-/* Old case for Implicit Flow method. Outdated as of April 2025.
+/* Old code for Implicit Flow method. Outdated as of April 2025.
 
 const clientId = 'c5f4c6e4d986474081c716224f9930c6'; // Insert client ID here.
 const redirectUri = 'https://jakemurph123.github.io/newspotify/'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
