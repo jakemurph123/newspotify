@@ -1,5 +1,5 @@
 const clientId = 'c5f4c6e4d986474081c716224f9930c6'; // Insert client ID here.
-const redirectUri = 'https://jakemurph123.github.io/newspotify'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
+const redirectUri = 'https://jakemurph123.github.io/newspotify/'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 let accessToken;
 
 const Spotify = {
